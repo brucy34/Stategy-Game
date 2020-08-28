@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1597823460 source:c:\user\saintilma\desktop\debut\main.cpp
+	<iostream>
+	<string>
+	"Personn.h"
+	"Arme.h"
+
+1597939855 c:\user\saintilma\desktop\debut\personn.h
+	<string>
+	"Arme.h"
+
+1597822180 c:\user\saintilma\desktop\debut\arme.h
+	<iostream>
+	<string>
+
+1597940557 source:c:\user\saintilma\desktop\debut\arme.cpp
+	<iostream>
+	<string>
+	"Arme.h"
+
+1597939884 source:c:\user\saintilma\desktop\debut\personn.cpp
+	<iostream>
+	<string>
+	"Personn.h"
+	"Arme.h"
+
