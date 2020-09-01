@@ -16,6 +16,8 @@ int main()
     david.attaquer(goliath); //david contre-attaque... c'est assez clair non ?
     goliath.changerArme("Double hache tranchante vénéneuse de la mort", 40);
     goliath.attaquer(david);
+    david.changerArme("Bazooka",90);
+    david.attaquer(goliath);
 
     cout <<"david"<<endl;
     david.afficherEtat();
